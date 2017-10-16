@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Expandable ListView Demo</string>
+
+    <string-array name="header_titles">
+        <item>Action Movies</item>
+        <item>Romantic Movies</item>
+        <item>Horror Movies</item>
+    </string-array>
+    <string-array name="h1_items">
+        <item>The Dark Knight</item>
+        <item>Avengers</item>
+        <item>Spider Man</item>
+    </string-array>
+    <string-array name="h2_items">
+        <item>Titanic</item>
+        <item>Kabil</item>
+        <item>DDLG</item>
+    </string-array>
+    <string-array name="h3_items">
+        <item>Virana</item>
+        <item>We Are Still Here</item>
+        <item>Insidious Chapter 3</item>
+    </string-array>
+</resources>
